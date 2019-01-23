@@ -1,0 +1,88 @@
+.header-logo {
+    padding-right: 8px;
+    font-size: 20px !important;
+    color: #377AB7;
+}
+
+.navbar-inverse {
+    margin-bottom: 0px;
+    min-height: 60px;
+    background: #1f1818;
+    opacity: 1;
+    filter: none;
+    border: none;
+    color: #fcfcfc;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    border-bottom: 1px solid #38383D;
+}
+
+.navbar-header {
+    color: white;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding-left: 15px;
+}
+
+.navbar-right {
+    padding-right: 0px;
+    margin-right: 10px;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.header-title {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.header-intro {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.dSign {
+    padding-top: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.tgl {
+    display: flex;
+    align-items: center;
+    padding-top: 11px;
+    padding-bottom: 5px;
+    margin-right: 0px;
+}
+
+.logIcon {
+    cursor: pointer;
+    padding-right: 5px;
+    font-size: 21px;
+}
+
+.cardSp {
+    font-size: 13px;
+    margin-top: 1px;
+    margin-right: 10px;
+    text-transform: capitalize;
+}
+
+.did {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
